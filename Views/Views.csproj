@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8302E1C-2F50-4413-B30C-BE550B207E83}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Views</RootNamespace>
+    <AssemblyName>Views</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\RegExHelper.cs" />
+    <Compile Include="Starfinder\Create\EquipmentControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\EquipmentControl.Designer.cs">
+      <DependentUpon>EquipmentControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\FeatsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\FeatsControl.Designer.cs">
+      <DependentUpon>FeatsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\AbilitiesControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\AbilitiesControl.Designer.cs">
+      <DependentUpon>AbilitiesControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\AbilityScoreControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\AbilityScoreControl.Designer.cs">
+      <DependentUpon>AbilityScoreControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\ArmorControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\ArmorControl.Designer.cs">
+      <DependentUpon>ArmorControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\AttackControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\AttackControl.Designer.cs">
+      <DependentUpon>AttackControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\Base.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\Base.Designer.cs">
+      <DependentUpon>Base.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\DescriptionControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\DescriptionControl.Designer.cs">
+      <DependentUpon>DescriptionControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\HealthControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\HealthControl.Designer.cs">
+      <DependentUpon>HealthControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\InitiativeControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\InitiativeControl.Designer.cs">
+      <DependentUpon>InitiativeControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\SavingThrowControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\SavingThrowControl.Designer.cs">
+      <DependentUpon>SavingThrowControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\SkillControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\SkillControl.Designer.cs">
+      <DependentUpon>SkillControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\SpellControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\SpellControl.Designer.cs">
+      <DependentUpon>SpellControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\SpellsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\SpellsControl.Designer.cs">
+      <DependentUpon>SpellsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\SummaryControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\SummaryControl.Designer.cs">
+      <DependentUpon>SummaryControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\WeaponControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\WeaponControl.Designer.cs">
+      <DependentUpon>WeaponControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\WeaponsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\WeaponsControl.Designer.cs">
+      <DependentUpon>WeaponsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Starfinder\Create\WearableControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Starfinder\Create\WearableControl.Designer.cs">
+      <DependentUpon>WearableControl.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\EquipmentControl.resx">
+      <DependentUpon>EquipmentControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\FeatsControl.resx">
+      <DependentUpon>FeatsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\AbilitiesControl.resx">
+      <DependentUpon>AbilitiesControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\AbilityScoreControl.resx">
+      <DependentUpon>AbilityScoreControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\ArmorControl.resx">
+      <DependentUpon>ArmorControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\AttackControl.resx">
+      <DependentUpon>AttackControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\Base.resx">
+      <DependentUpon>Base.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\DescriptionControl.resx">
+      <DependentUpon>DescriptionControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\HealthControl.resx">
+      <DependentUpon>HealthControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\InitiativeControl.resx">
+      <DependentUpon>InitiativeControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\SavingThrowControl.resx">
+      <DependentUpon>SavingThrowControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\SkillControl.resx">
+      <DependentUpon>SkillControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\SpellControl.resx">
+      <DependentUpon>SpellControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\SpellsControl.resx">
+      <DependentUpon>SpellsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\SummaryControl.resx">
+      <DependentUpon>SummaryControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\WeaponControl.resx">
+      <DependentUpon>WeaponControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\WeaponsControl.resx">
+      <DependentUpon>WeaponsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Starfinder\Create\WearableControl.resx">
+      <DependentUpon>WearableControl.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Custom Controls\Custom Controls.csproj">
+      <Project>{7603AF87-609F-4911-88DA-A0653DBA7342}</Project>
+      <Name>Custom Controls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
+      <Project>{78ecdbb3-e6ed-4f3b-bd96-8dfefde89b09}</Project>
+      <Name>DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Rules\Rules.csproj">
+      <Project>{0eb9a900-7531-4783-bdd3-e745fcc210f9}</Project>
+      <Name>Rules</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Storage\Storage.csproj">
+      <Project>{cf13faee-0b8a-4ab2-b287-3c695ec7559e}</Project>
+      <Name>Storage</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StarFinder_Banner_Abilities.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StarFinder_Banner_AbilityScores.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StarFinder_Banner_Description.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StarFinder_Banner_Feats.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StarFinder_Banner_Skills.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_icon.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_Initiative.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_Health.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_Attack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_SavingThrows.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button_Add.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button_Info.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Button_Remove.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_Capacity.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_Equipment.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_Languages.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_Spells.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_Weapons.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_Armor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Starfinder_Banner_ArmorClass.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

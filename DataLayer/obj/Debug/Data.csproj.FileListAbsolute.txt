@@ -1,0 +1,7 @@
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\DataLayer\bin\Debug\DataLayer.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\DataLayer\bin\Debug\Storage.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\DataLayer\bin\Debug\Storage.pdb
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\DataLayer\obj\Debug\Data.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\DataLayer\obj\Debug\DataLayer.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\DataLayer\obj\Debug\DataLayer.pdb

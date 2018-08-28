@@ -1,0 +1,16 @@
+C:\Users\Brett\Google Drive\Roleplay Resource\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Google Drive\Roleplay Resource\DataLayer\bin\Release\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\Brett\Google Drive\Roleplay Resource\DataLayer\bin\Release\DataLayer.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\DataLayer\bin\Release\Storage.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\DataLayer\bin\Release\Storage.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\DataLayer\obj\Release\DataLayer.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\DataLayer\obj\Release\DataLayer.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\DataLayer\bin\Release\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\DataLayer\bin\Release\DataLayer.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\DataLayer\bin\Release\Storage.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\DataLayer\bin\Release\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\DataLayer\obj\Release\DataLayer.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\DataLayer\obj\Release\DataLayer.pdb

@@ -1,0 +1,20 @@
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom Controls.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom_Controls.CheckboxListSelect.resources
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom Controls.csproj.GenerateResource.Cache
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Custom Controls.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Custom Controls.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Storage.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Storage.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom Controls.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom Controls.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Custom Controls.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Custom Controls.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Storage.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\bin\Release\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom Controls.csprojResolveAssemblyReference.cache
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom_Controls.CheckboxListSelect.resources
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom Controls.csproj.GenerateResource.Cache
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom Controls.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Custom Controls\obj\Release\Custom Controls.pdb

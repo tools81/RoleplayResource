@@ -1,0 +1,16 @@
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\obj\Release\Rules.csprojResolveAssemblyReference.cache
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\Rules.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\Rules.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\Custom Controls.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\DataLayer.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\itextsharp.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\itextsharp.pdfa.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\Storage.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\Custom Controls.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\DataLayer.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Release\itextsharp.xml
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\obj\Release\Rules.csprojResolveAssemblyReference.cache
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\obj\Release\Rules.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\obj\Release\Rules.pdb

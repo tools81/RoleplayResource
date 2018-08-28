@@ -1,0 +1,61 @@
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\bin\Debug\Roleplay Resource.exe.config
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\bin\Debug\Roleplay Resource.exe
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\bin\Debug\Roleplay Resource.pdb
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\bin\Debug\Custom Controls.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\bin\Debug\Custom Controls.pdb
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay_Resource.Properties.Resources.resources
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay_Resource.Splash.resources
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.csproj.GenerateResource.Cache
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.exe
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.pdb
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay_Resource.CreateCharacter.resources
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\bin\Debug\DataLayer.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\bin\Debug\Storage.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\bin\Debug\DataLayer.pdb
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Roleplay Resource\bin\Debug\Storage.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Roleplay Resource.exe.config
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.exe
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Roleplay Resource.exe
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Roleplay Resource.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Custom Controls.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\DataLayer.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Custom Controls.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\DataLayer.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay_Resource.CreateCharacter.resources
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay_Resource.Properties.Resources.resources
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay_Resource.Splash.resources
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.csproj.GenerateResource.Cache
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Roleplay Resource.exe.config
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.exe
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Roleplay Resource.exe
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Roleplay Resource.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Custom Controls.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\DataLayer.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Storage.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Rules.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Custom Controls.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\DataLayer.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Rules.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay_Resource.CreateCharacter.resources
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay_Resource.Properties.Resources.resources
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay_Resource.Splash.resources
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.csproj.GenerateResource.Cache
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Views.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Views.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Views.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Storage.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Rules.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Views.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Storage.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Rules.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\itextsharp.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\itextsharp.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Roleplay Resource\bin\Debug\itextsharp.xml
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Roleplay Resource\obj\Debug\Roleplay Resource.csprojResolveAssemblyReference.cache

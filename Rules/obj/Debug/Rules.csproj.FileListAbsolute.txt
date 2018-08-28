@@ -1,0 +1,30 @@
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Rules\bin\Debug\Rules.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Rules\bin\Debug\Rules.pdb
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Rules\obj\Debug\Rules.csprojResolveAssemblyReference.cache
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Rules\obj\Debug\Rules.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Rules\obj\Debug\Rules.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Debug\Rules.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Debug\Rules.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Debug\DataLayer.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Debug\Storage.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Debug\DataLayer.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Debug\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\obj\Debug\Rules.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\obj\Debug\Rules.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\Rules.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\Rules.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\DataLayer.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\Storage.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\DataLayer.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\Storage.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\obj\Debug\Rules.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\obj\Debug\Rules.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\obj\Debug\Rules.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Debug\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\itextsharp.xml
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Debug\Custom Controls.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\bin\Debug\Custom Controls.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\Custom Controls.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Rules\bin\Debug\Custom Controls.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Rules\obj\Debug\Rules.csprojResolveAssemblyReference.cache

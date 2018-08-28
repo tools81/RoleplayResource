@@ -1,0 +1,16 @@
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Storage\bin\Debug\Storage.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Storage\bin\Debug\Storage.pdb
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Storage\obj\Debug\Storage.dll
+c:\users\brett\documents\visual studio 2015\Projects\Roleplay Resource\Storage\obj\Debug\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\bin\Debug\Storage.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\bin\Debug\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\obj\Debug\Storage.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\obj\Debug\Storage.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\bin\Debug\Storage.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\bin\Debug\Storage.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\obj\Debug\Storage.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\obj\Debug\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\bin\Debug\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\bin\Debug\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache

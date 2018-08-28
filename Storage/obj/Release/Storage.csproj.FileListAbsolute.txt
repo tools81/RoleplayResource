@@ -1,0 +1,12 @@
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\obj\Release\Storage.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\bin\Release\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\bin\Release\Storage.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\bin\Release\Storage.pdb
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\obj\Release\Storage.dll
+C:\Users\Brett\Google Drive\Roleplay Resource\Storage\obj\Release\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\bin\Release\Starfinder\Templates\CharacterSheet.pdf
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\bin\Release\Storage.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\bin\Release\Storage.pdb
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\obj\Release\Storage.csprojResolveAssemblyReference.cache
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\obj\Release\Storage.dll
+C:\Users\brett.tooley\Google Drive\Roleplay Resource\Storage\obj\Release\Storage.pdb
